@@ -3,7 +3,7 @@ Global smm panel API document for PHP.
 
 # CURL Details
 
-HTTP Method -> POST or GET
+HTTP Method -> POST or GET <br>
 Response format -> JSON
 
 # Example Responses ❤
