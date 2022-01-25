@@ -1,7 +1,7 @@
 # perfectpanel-smm-api
 Global smm panel API document for PHP.
 
-# CURL Details
+# CURL Details ⚡
 
 HTTP Method -> POST or GET <br>
 Response format -> JSON
